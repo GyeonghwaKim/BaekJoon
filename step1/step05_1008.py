@@ -1,0 +1,5 @@
+a, b=input().split()
+x=float(a)
+y=float(b)
+result=float(x/y)
+print(result)
