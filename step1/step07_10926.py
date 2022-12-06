@@ -1,2 +1,2 @@
-a=int(input())
-print(a-543)
+a=input()
+print(a+"??!")
